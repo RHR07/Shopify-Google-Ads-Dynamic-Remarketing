@@ -1,0 +1,6 @@
+homepage: "https://github.com/RHR07"
+documentation: "https://github.com/RHR07/shopify-google-ads-dynamic-remarketing"
+versions:
+  # Latest version -1.0  
+  - sha: 32aad3e1e7b03f26df52f9a514c2a085f5774228
+    changeNotes: Initial release.
